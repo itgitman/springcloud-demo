@@ -15,4 +15,7 @@ public class Hello {
     public String hello() {
         return "hello, world!";
     }
+    public String hi() {
+        return "hi";
+    }
 }
