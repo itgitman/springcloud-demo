@@ -19,7 +19,7 @@ target/
 *.iws
 *.iml
 *.ipr
-.gitattributes
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
